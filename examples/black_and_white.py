@@ -1,5 +1,5 @@
-import cart
-c = cart.Cart("test.lua")
+import tictools
+c = tictools.Cart("test.lua")
 def blank(n):
 	return 0 if n >= 8 else 15
 
